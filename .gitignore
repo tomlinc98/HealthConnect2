@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Testing
+coverage/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
